@@ -3,10 +3,10 @@
     <swiper id="swiperBox" v-bind:options="swiperOption" ref="mySwiper">
       <swiper-slide class="swiper-slide slide-one">
         <div class="page">
-          <h3>科建股份</h3>
-          <p>KeJian Stock</p>
+          <h3>童欣悦动</h3>
+          <p>Sport for children</p>
         </div>
-        <p class="slogan">立人立己 达人达己</p>
+        <p class="slogan">特殊儿童虚拟体育康复运动服务</p>
       </swiper-slide>
       <swiper-slide class="swiper-slide slide-two">
         <div class="page">
@@ -160,14 +160,14 @@ export default {
     p {
       font-size: 40px;
       font-weight: 400;
-      color: #fff;
+      color: #22056b;
     }
   }
 
   .slogan {
     text-align: center;
     font-size: 50px;
-    color: #fff;
+    color: #09378c;
     padding: 30px 0;
   }
 }
